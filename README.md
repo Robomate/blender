@@ -2,6 +2,8 @@
 
 #### STL files
 
+[servo gears in blender](https://www.thingiverse.com/thing:2471044)
+
 [servo arms 9g](https://www.thingiverse.com/thing:40314)
 
 #### STL fixes
