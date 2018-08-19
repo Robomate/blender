@@ -6,6 +6,8 @@
 
 [servo arms 9g](https://www.thingiverse.com/thing:40314)
 
+[arm bot 9g](https://www.thingiverse.com/thing:34829)
+
 #### STL fixes
 
 [blender tutorial](https://www.youtube.com/watch?v=jj3E2SDByYU&t=833s)
