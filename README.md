@@ -8,6 +8,11 @@
 
 [arm bot 9g](https://www.thingiverse.com/thing:34829)
 
+[arm bot mg995](https://www.thingiverse.com/thing:38875)
+
+[tank bot](https://www.thingiverse.com/thing:2662828)
+
+
 #### STL fixes
 
 [blender tutorial](https://www.youtube.com/watch?v=jj3E2SDByYU&t=833s)
